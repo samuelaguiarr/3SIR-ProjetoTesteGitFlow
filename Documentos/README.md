@@ -1,0 +1,1 @@
+# Guarde nesta pasta somente arquivos contendo documentos do projeto.
